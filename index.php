@@ -14,7 +14,6 @@ fclose($file);
 $file = file('access.log');
 ?>
 
-echo ($count-1).'件のアクセスがありました。';
 
 <!DOCTYPE html>
 <html lang="ja">
